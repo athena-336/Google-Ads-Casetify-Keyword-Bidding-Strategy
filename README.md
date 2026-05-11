@@ -1,7 +1,8 @@
 # Casetify Keyword Bidding Strategy | Casetify 關鍵字廣告競價策略
 
 A quantitative optimization project using Management Science techniques to determine the most cost-effective Google Ads bidding strategy for Casetify, maximizing total clicks under a fixed budget.
-運用管理科學技術，針對 Casetify 關鍵字廣告制定最佳競價策略，在固定預算限制下，最大化廣告總點擊數並優化成本效益。
+
+針對 Casetify 關鍵字廣告制定最佳競價策略，在固定預算限制下，最大化廣告總點擊數並優化成本效益。
 
 > **國立政治大學 管理科學課程 · NCCU Management Science Final Project · 2023 · 第九組**
 
@@ -9,6 +10,7 @@ A quantitative optimization project using Management Science techniques to deter
 
 ## 🎯 Objective | 分析目標
 Optimize Google Ads keyword bidding by determining the best budget level and rank for 5 core keywords (e.g., iPhone13, custom cases), aiming to maximize overall traffic while staying within a $10,000 budget.
+
 優化 Google Ads 關鍵字競價策略：針對五個核心關鍵字（如：iPhone13、客製化等）決定最佳預算等級與排名，目標在 10,000 元預算限制下實現點擊數最大化。
 
 ---
